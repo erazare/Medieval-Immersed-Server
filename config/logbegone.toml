@@ -1,0 +1,5 @@
+# The configuration file for Log Begone
+
+[logbegone]
+    regex = ["Disconnecting VANILLA connection attempt", "Channels ", "io.netty.channel.StacklessClosedChannelExceptionnull", "at io.netty.channel.AbstractChannel$AbstractUnsafe.ensureOpen"]
+    phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "io.netty.channel.StacklessClosedChannelExceptionnull", " at io.netty.channel.AbstractChannel$AbstractUnsafe.ensureOpen"]
