@@ -9,7 +9,13 @@
 		"toolSlotsAcceptableItems": [],
 		// List of items that can't be put in backpack inventory (Use registry names, for example: minecraft:apple)
 		"blacklistedItems": [],
-		"tanksCapacity": 324000,
+		"tanksCapacity": [
+			162000,
+			243000,
+			324000,
+			405000,
+			486000
+		],
 		// Prevents backpack disappearing in void
 		"voidProtection": true,
 		// Places backpack at place where player died
