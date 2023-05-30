@@ -1,6 +1,5 @@
 {
 	"backpackSettings": {
-		"enableTierUpgrades": true,
 		"disableCrafting": false,
 		// Enables wearing backpack directly from ground
 		"enableBackpackBlockQuickEquip": true,
@@ -10,7 +9,6 @@
 		"toolSlotsAcceptableItems": [],
 		// List of items that can't be put in backpack inventory (Use registry names, for example: minecraft:apple)
 		"blacklistedItems": [],
-		"allowShulkerBoxes": false,
 		"tanksCapacity": [
 			162000,
 			243000,
